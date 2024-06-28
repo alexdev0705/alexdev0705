@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <a style="display:block;margin-left:auto;margin-right:auto;" href="#">
-  <img src="https://github.com/alexdev0705/alexdev0705/blob/main/Logo.gif" align="center" />
+  <img src="https://github.com/alexdev0705/alexdev0705/blob/main/Logo.webp" align="center" />
 </a>
 
 <br/>
